@@ -67,3 +67,5 @@ group :test do
 end
 
 gem "gridy", path: "../gridy"
+
+gem "faker"
